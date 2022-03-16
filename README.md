@@ -11,7 +11,7 @@
 -List of model used: KNN with score of 0.81 Descision Tree 0.82 ANN 0.77 XGboost is the model who have the best score 0.92
 
 
-# [project 2: Recommandation system: Project overview](https://github.com/youssefbac/ProjetDS)
+# [project 2: Recommandation system](https://github.com/youssefbac/ProjetDS)
 
 # Objectif:
 create a recommandation system to help student to find an end of study internship or a first job 
