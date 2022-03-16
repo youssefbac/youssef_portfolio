@@ -1,6 +1,6 @@
 # youssef_portfolio
 
-# [project 1: credit card customer default payment : Project overview](https://github.com/youssefbac/Projet-Machine-Learning/blob/main/Projet-ML-Final.ipynb)
+# [project 1: credit card customer default payment:Project overview](https://github.com/youssefbac/Projet-Machine-Learning/blob/main/Projet-ML-Final.ipynb)
 # Objectif:
 
 -The project is being prepared to understand whether the credit card customer will make a payment default in the next month or not based on a number of features.
