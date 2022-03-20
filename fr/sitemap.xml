@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/youssefbac/youssef_portfolio/fr/</loc>
+    <loc>https://youssefbac.github.io/youssef_portfolio/fr/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/youssefbac/youssef_portfolio/"
+                href="https://youssefbac.github.io/youssef_portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/youssefbac/youssef_portfolio/fr/"
+                href="https://youssefbac.github.io/youssef_portfolio/fr/"
                 />
   </url><url>
-    <loc>https://github.com/youssefbac/youssef_portfolio/fr/post/chapter-1/</loc>
+    <loc>https://youssefbac.github.io/youssef_portfolio/fr/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/youssefbac/youssef_portfolio/fr/tags/scene/</loc>
+    <loc>https://youssefbac.github.io/youssef_portfolio/fr/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/youssefbac/youssef_portfolio/fr/tags/</loc>
+    <loc>https://youssefbac.github.io/youssef_portfolio/fr/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/youssefbac/youssef_portfolio/tags/"
+                href="https://youssefbac.github.io/youssef_portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/youssefbac/youssef_portfolio/fr/tags/"
+                href="https://youssefbac.github.io/youssef_portfolio/fr/tags/"
                 />
   </url><url>
-    <loc>https://github.com/youssefbac/youssef_portfolio/fr/post/</loc>
+    <loc>https://youssefbac.github.io/youssef_portfolio/fr/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/youssefbac/youssef_portfolio/post/"
+                href="https://youssefbac.github.io/youssef_portfolio/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/youssefbac/youssef_portfolio/fr/post/"
+                href="https://youssefbac.github.io/youssef_portfolio/fr/post/"
                 />
   </url><url>
-    <loc>https://github.com/youssefbac/youssef_portfolio/fr/categories/</loc>
+    <loc>https://youssefbac.github.io/youssef_portfolio/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/youssefbac/youssef_portfolio/categories/"
+                href="https://youssefbac.github.io/youssef_portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/youssefbac/youssef_portfolio/fr/categories/"
+                href="https://youssefbac.github.io/youssef_portfolio/fr/categories/"
                 />
   </url><url>
-    <loc>https://github.com/youssefbac/youssef_portfolio/fr/contact/</loc>
+    <loc>https://youssefbac.github.io/youssef_portfolio/fr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/youssefbac/youssef_portfolio/contact/"
+                href="https://youssefbac.github.io/youssef_portfolio/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/youssefbac/youssef_portfolio/fr/contact/"
+                href="https://youssefbac.github.io/youssef_portfolio/fr/contact/"
                 />
   </url>
 </urlset>
