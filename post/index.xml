@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Youssef Ben Amara</title>
+    <link>https://github.com/youssefbac/youssef_portfolio/post/</link>
+    <description>Recent content in Projects on Youssef Ben Amara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/youssefbac/youssef_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project1:Credit Card Default Prediction </title>
+      <link>https://github.com/youssefbac/youssef_portfolio/post/project1/</link>
+      <pubDate>Mon, 01 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/youssefbac/youssef_portfolio/post/project1/</guid>
+      <description>Project guithub Link: https://github.com/youssefbac/Projet-Machine-Learning/blob/main/Projet-ML-Final.ipynb
+ The project is being prepared to understand whether the credit card customer will make a payment default in the next month or not based on a number of features.
+Data Understanding
+We used an anonymized dataset of Taiwanese credit card holders from October 2006 (Chou, 2006). This dataset was made available to the public and posted on the UC Irvine Machine Learning Repository website. The dataset contains: 30,000 observations.</description>
+    </item>
+    
+    <item>
+      <title>Project2: Recommandation System</title>
+      <link>https://github.com/youssefbac/youssef_portfolio/post/project2/</link>
+      <pubDate>Fri, 01 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/youssefbac/youssef_portfolio/post/project2/</guid>
+      <description>Objectif: create a recommandation system to help student to find an end of study internship or a first job
+-Scraping linkedin profile to create a basic database -Analyse data -Data Cleaning -Using NLP model to predict the best recommandation to each profile -deployment of recommandation system with docker</description>
+    </item>
+    
+    <item>
+      <title>project3: Kidzy web site</title>
+      <link>https://github.com/youssefbac/youssef_portfolio/post/project3/</link>
+      <pubDate>Sat, 11 Jan 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/youssefbac/youssef_portfolio/post/project3/</guid>
+      <description>-Development of a dedicated application for children and parents named kidzy with 3 different version Desktop,web,mobile application based on agile SCRUM method Technologies used JavaFX,Symfony,CodenameOne,MySQL as a data base</description>
+    </item>
+    
+  </channel>
+</rss>
